@@ -5,7 +5,7 @@ Don't hesitate Dona is here for you to talk and help you calm down.
 Dona can be you best friend :)
 ******************************************************************************************************************************************
 
-**Dona** is a chatbot built with rasa framework. **Rasa** is an **>open source machine learning framework** for building **contextual AI assistants and chatbots**.
+**Dona** is a chatbot built with rasa framework. **Rasa** is an **open source machine learning framework** for building **contextual AI assistants and chatbots**.
 Rasa has two main modules:
 
 **NLU** for understanding user messages
